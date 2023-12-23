@@ -4,7 +4,7 @@ Cyberdive is a 1-year long thesis project by an IMGD MFA student, Linux. I worke
 
 Cyberdive is a Roguelite game with minimalistic gameplay where you only need WASD to play through the procedurally generated levels in the treacherous cyber world.
 
-Some bugs still exist in the current build. If you want to replay it, you need to restart it from outside, not in game.
+Some bugs still exist in the current build. If you want to replay it, you need to restart it from outside, not in game. The game is based on Perforce.
 
 Contribution: Player skill implementation and Dialogue system integration.
 
