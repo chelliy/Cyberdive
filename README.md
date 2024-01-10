@@ -1,6 +1,8 @@
 # Cyberdive
 
-Cyberdive is a 1-year long thesis project by an IMGD MFA student, Linux. I worked as Gameplay Engineer in the team.
+The project is closed due to the Director's decision.
+
+Cyberdive is a 1-year long thesis project by an IMGD MFA student. I worked as Gameplay Engineer in the team.
 
 Cyberdive is a Roguelite game with minimalistic gameplay where you only need WASD to play through the procedurally generated levels in the treacherous cyber world.
 
